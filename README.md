@@ -28,5 +28,5 @@ Make sure you have the following installed on your system:
 ##Contact
 
 - **Email**: [pulkit.bharti21b@iiitg.ac.in](mailto:pulkit.bharti21b@iiitg.ac.in)
-- **LinkedIn**: [Pulkit Bharti](edin.com/in/pulkit-bharti-570540242)
+- **LinkedIn**: [Pulkit Bharti](https://www.linkedin.com/in/pulkit-bharti-570540242/)
 - **GitHub**: [Pulkit Bharti](https://github.com/Pulkit-03)
