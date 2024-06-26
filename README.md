@@ -5,8 +5,6 @@ Welcome to dalali.com, your go-to platform for buying and selling properties. Th
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
 - [Contact](#contact)
 
   
@@ -26,3 +24,9 @@ Make sure you have the following installed on your system:
 
 - Python (with Tkinter library)
 - MySQL database
+
+##Contact
+
+- **Email**: [pulkit.bharti21b@iiitg.ac.in](mailto:pulkit.bharti21b@iiitg.ac.in)
+- **LinkedIn**: [Pulkit Bharti](www.linkedin.com/in/pulkit-bharti-570540242)
+- **GitHub**: [Roshan Raj](https://github.com/Pulkit-03)
