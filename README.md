@@ -29,4 +29,4 @@ Make sure you have the following installed on your system:
 
 - **Email**: [pulkit.bharti21b@iiitg.ac.in](mailto:pulkit.bharti21b@iiitg.ac.in)
 - **LinkedIn**: [Pulkit Bharti](www.linkedin.com/in/pulkit-bharti-570540242)
-- **GitHub**: [Roshan Raj](https://github.com/Pulkit-03)
+- **GitHub**: [Pulkit Bharti](https://github.com/Pulkit-03)
