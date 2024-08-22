@@ -1,5 +1,5 @@
 #dalali.com - Real Estate GUI
-Welcome to dalali.com, your go-to platform for buying and selling properties. This website enables sellers to create listings for their properties, which potential buyers can browse and directly communicate with the sellers via a mediator.
+Welcome to dalali.com, your go-to platform for buying and selling properties. This GUI application enables sellers to create listings for their properties, which potential buyers can browse and directly communicate with the sellers via a mediator.
 
 ## Table of Contents
 
